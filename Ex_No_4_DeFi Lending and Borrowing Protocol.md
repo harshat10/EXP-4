@@ -1,3 +1,5 @@
+### NAME : HARSHAT G
+### RegNo:212224040106
 # Experiment 4: DeFi Lending and Borrowing Protocol
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
@@ -76,13 +78,16 @@ contract DeFiLending {
 # Expected Output:
 Users can deposit ETH and earn interest.
 
+<img width="1916" height="1000" alt="image" src="https://github.com/user-attachments/assets/2bd0af43-20e0-429d-a350-b137356e89a0" />
+
 
 Users can borrow ETH by providing collateral.
 
+<img width="1917" height="1009" alt="image" src="https://github.com/user-attachments/assets/c02778ab-90bd-46e7-8312-16120bfa96e6" />
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
-
+<img width="1842" height="1042" alt="image" src="https://github.com/user-attachments/assets/370d8780-9a7c-4f09-b765-0a59caae3ffc" />
 
 # High-Level Overview:
 Teaches key DeFi concepts: lending, borrowing, collateral, liquidation.
@@ -94,4 +99,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+We successfully built a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral.
